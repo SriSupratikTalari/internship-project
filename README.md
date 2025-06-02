@@ -24,8 +24,9 @@ a selected set of all the available features.
    - The closing price the stock reached on the recorded day
 
 
-## 💡 Tips
+## Models
 
+###Linear regression
 - Keep your code well-organized and documented.
 - Include a `README.md` in your challenge folder with:
   - Your name
