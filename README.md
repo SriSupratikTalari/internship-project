@@ -50,7 +50,7 @@ model on the same training data. As well as made predictions with it using the s
 
 - Multi-Linear Regression Model
 
-<img src="advance_model.png" alt="Multi Linear Model" width="400"/>
+<img src="multi_model.png" alt="Multi Linear Model" width="400"/>
 
 We’re excited to see what you come up with!
 
