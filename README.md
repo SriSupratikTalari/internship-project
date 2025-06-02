@@ -21,7 +21,7 @@ a selected set of all the available features.
    - The highest price the stock reached on the recorded day
 
 4. Close
-   -The closing price the stock reached on the recorded day
+   - The closing price the stock reached on the recorded day
 
 
 ## 💡 Tips
