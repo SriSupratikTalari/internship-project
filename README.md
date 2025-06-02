@@ -35,7 +35,8 @@ and testing data using a 70/30 split method. Afterwards I fitted my data on the 
 using the test data. 
 
 - Base Model Predictions
-  ![Base Linear Model](base_model.png)
+
+<img src="base_model.png" alt="Base Linear Model" width="400"/>
 
 We’re excited to see what you come up with!
 
