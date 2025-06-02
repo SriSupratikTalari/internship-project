@@ -34,12 +34,8 @@ has a strong positive linear relation with the closing price. First I had to spl
 and testing data using a 70/30 split method. Afterwards I fitted my data on the training data and made predictions 
 using the test data. 
 
-- Keep your code well-organized and documented.
-- Include a `README.md` in your challenge folder with:
-  - Your name
-  - What you built
-  - Technologies used
-  - Anything you’d do differently with more time
+- Base Model Predictions
+  ![Base Linear Model](base_model.png)
 
 We’re excited to see what you come up with!
 
