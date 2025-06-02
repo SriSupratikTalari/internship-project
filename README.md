@@ -26,7 +26,7 @@ a selected set of all the available features.
 
 ## Models
 
-###Linear regression
+### Linear regression
 - Keep your code well-organized and documented.
 - Include a `README.md` in your challenge folder with:
   - Your name
