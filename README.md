@@ -14,8 +14,8 @@ a selected set of all the available features.
 1. Date
    - The date the infromation was recorded
    
-2. Low
-   - The lowest price the stock reached on the recorded day
+2. Open
+   - The opening price of the stock on the recorded day
 
 3. High
    - The highest price the stock reached on the recorded day
@@ -37,6 +37,20 @@ using the test data.
 - Base Model Predictions
 
 <img src="base_model.png" alt="Base Linear Model" width="400"/>
+
+Looking at the graph above we can see that the model does well but to interpret it using 
+numerical terms we will calculate the RMSE. After calculating the RMSE for this model we got 
+a value of 41.265456837173986.
+
+### Multi-Linear Regression Model
+
+After creating a base model I decided to take it a step further by creating a multi-linear regression
+model. This model uses two different features to make its predictions Open and High. I fitted this new
+model on the same training data. As well as made predictions with it using the same test data.
+
+- Multi-Linear Regression Model
+
+<img src="advance_model.png" alt="Multi Linear Model" width="400"/>
 
 We’re excited to see what you come up with!
 
