@@ -27,6 +27,13 @@ a selected set of all the available features.
 ## Models
 
 ### Linear regression
+
+The first model that I have decided to create is a base model for linear regression using one feature. 
+My feature of choice was the low price because from my exploratory data analysis I found that the low price
+has a strong positive linear relation with the closing price. First I had to split the data up into training
+and testing data using a 70/30 split method. Afterwards I fitted my data on the training data and made predictions 
+using the test data. 
+
 - Keep your code well-organized and documented.
 - Include a `README.md` in your challenge folder with:
   - Your name
