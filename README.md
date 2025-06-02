@@ -1,24 +1,28 @@
-# Tekly Studio – Internship Challenge Hub
+# Sri Supratik Talari – AI/ML Challenge
 
-Welcome to the **Tekly Studio internship challenge**!
+Welcome to my **AI/ML Challenge Project**!
 
-This is your chance to show us how you think, build, and communicate.
+My name is Sri Supratik Talari I am a Data Science Major At University of California San Diego.
 
-## 📌 Instructions
+## Introduction
 
-1. Browse the `/challenges` folder and pick the one that matches your interest:
-   - `ai-ml`
-   - `backend`
-   - `frontend`
-   - `ui-ux`
-   - `biz-strategy`
+For this challenge I decided to pursue the ai/ml challenge which asked me to created a predictive model for stock prices. 
+The dataset that I am using has information on the Aave stock from 2020-10-05 to 2021-07-06 which can be found on Kaggle.
+The dataset has several features that provided infromation on the Aave stock. For our purposes we will only be using 
+a selected set of all the available features. 
 
-2. **Fork this repo** to your own GitHub account.
+1. Date
+   - The date the infromation was recorded
+   
+2. Low
+   - The lowest price the stock reached on the recorded day
 
-3. Complete the challenge inside your selected folder in your fork.
+3. High
+   - The highest price the stock reached on the recorded day
 
-4. When done, fill out the submission form with your GitHub repo link and a brief write-up:
-👉 [Submit Your Work Here](https://forms.gle/bEpchsNKHHwcyZ47A)
+4. Close
+   -The closing price the stock reached on the recorded day
+
 
 ## 💡 Tips
 
